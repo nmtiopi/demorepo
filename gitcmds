@@ -41,3 +41,7 @@ git revert <commit> : Create a new commit that undoes a previous commit
 git rm <file> : Remove a file from the working directory and staging area
 
 git stash : Temporarily save changes that are not ready to be committed
+
+# You are on your way to mastering Git
+# Keep at it..
+#
