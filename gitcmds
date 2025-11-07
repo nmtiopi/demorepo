@@ -1,6 +1,6 @@
-# Essential Git Commands
+# 20 of the most commonly used Git commands
 
-Command :	Description
+# Command :	Description
 
 git init : Initialize a new Git repository
 
@@ -40,4 +40,4 @@ git revert <commit> : Create a new commit that undoes a previous commit
 
 git rm <file> : Remove a file from the working directory and staging area
 
-git stash
+git stash : Temporarily save changes that are not ready to be committed
