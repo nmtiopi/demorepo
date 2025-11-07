@@ -1,1 +1,43 @@
-This is file 2
+# Essential Git Commands
+
+Command :	Description
+
+git init : Initialize a new Git repository
+
+git clone <url> : Clone a remote repository to your local machine
+
+git status : Show the current state of the working directory and staging area
+
+git add <file> : Stage a specific file for commit
+
+git add . : Stage all changes in the current directory
+
+git commit -m "message" : Commit staged changes with a descriptive message
+
+git push : Upload local commits to a remote repository
+
+git pull : Fetch and merge changes from a remote repository
+
+git fetch : Download changes from a remote repository without merging
+
+git branch : List all branches in the repository
+
+git branch <name> : Create a new branch
+
+git checkout <branch> : Switch to a different branch
+
+git merge <branch> : Merge a specified branch into the current branch
+
+git log : Show the commit history
+
+git log --oneline : Display a simplified commit history
+
+git diff : Show changes between commits or between working directory and index
+
+git reset : Unstage files or reset commits
+
+git revert <commit> : Create a new commit that undoes a previous commit
+
+git rm <file> : Remove a file from the working directory and staging area
+
+git stash
